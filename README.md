@@ -24,8 +24,8 @@ En éste repositorio se encuentran los archivos necesarios para llevar a cabo un
      archivo data_clean, preparado para llevar a cabo el análisis discriminante.
 
 2. **Análisis Discriminante. Selección y entrenamiento del modelo. Cálculo de Exactitud y Precisión:**
-   - Consultar `actividad2_resuelta.ipynb` para seguir el código que permite realizar LDA, QDA y LDA Regularizado calculando la exactitud.
-   - Utilizar el archivo `codigo_python_final_actividad2.ipynb` para calcular la precisión de los análisis discriminante LDA, QDA y LDA Regularizado.
+   - Consultar `Análisis_discrim_exactitud.ipynb` para seguir el código que permite realizar LDA, QDA y LDA Regularizado calculando la exactitud.
+   - Utilizar el archivo `Análisis_discrim_exactitud_&_precision.ipynb` para calcular la precisión de los análisis discriminante LDA, QDA y LDA Regularizado.
 
 3. **Licencia:**
    - Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo [LICENSE](LICENSE) para más detalles.
