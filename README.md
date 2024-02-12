@@ -12,7 +12,7 @@ En éste repositorio se encuentran los archivos necesarios para llevar a cabo un
   - `data_clean.csv`: Conjunto de datos preparado para el Análisis Discriminante.
   - `variables.csv`: Descripción de las variables y fuente de los datos.
 
-- **codigo:** Código fuente del proyecto.
+- **Code:** Código fuente del proyecto.
   - `actividad2_resuelta.ipynb`: Notebook de Jupyter con el código para realizar el Análisis Discriminante Lineal (LDA), Análisis Discriminante Cuadrático (QDA) y LDA Regularizado, calculando en todos ellos la exactitud.
   - `codigo_python_final_actividad2.ipynb`: Notebook de Jupyter que expande el código de la actividad2_resuelta.ipynb, incluyendo el cálculo de precisión de los modelos para LDA, QDA Y LDA Regularizado.
 
